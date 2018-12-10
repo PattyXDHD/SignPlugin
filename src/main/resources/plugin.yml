@@ -1,0 +1,7 @@
+name: SignPlugin
+author: PattyXDHD
+version: 1.0
+main: de.pattyxdhd.sign.SignPlugin
+
+commands:
+  sign:
