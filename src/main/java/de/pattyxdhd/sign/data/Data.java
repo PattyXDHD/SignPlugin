@@ -2,6 +2,12 @@ package de.pattyxdhd.sign.data;
 
 import lombok.Getter;
 
+/*
+ * Project: SignPlugin
+ * Created on 10.12.18 10:31.
+ * Copyright (c) 2018 PattyXDHD. All rights reserved.
+ */
+
 public class Data {
 
     @Getter

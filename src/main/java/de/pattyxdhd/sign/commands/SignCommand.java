@@ -2,9 +2,7 @@ package de.pattyxdhd.sign.commands;
 
 import de.pattyxdhd.sign.data.Data;
 import de.pattyxdhd.sign.manager.SignManager;
-import org.bukkit.Bukkit;
 import org.bukkit.Material;
-import org.bukkit.OfflinePlayer;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

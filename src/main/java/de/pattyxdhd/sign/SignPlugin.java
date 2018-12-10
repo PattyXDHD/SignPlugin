@@ -7,6 +7,12 @@ import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
+/*
+ * Project: SignPlugin
+ * Created on 10.12.18 10:31.
+ * Copyright (c) 2018 PattyXDHD. All rights reserved.
+ */
+
 public class SignPlugin extends JavaPlugin {
 
     @Getter
